@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*github is a very good platform*
+_we could learn new things_
+
+**github**
+__discord__
+
